@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    font-style:normal;
+}
+div{
+    background-color: white;
+    height: px;
+    width: 500px;
+margin: auto;
+border-radius: 5px;
+  
+}
